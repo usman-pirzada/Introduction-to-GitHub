@@ -1,2 +1,2 @@
-# skills-Introduction-to-GitHub
+# Introduction-to-GitHub
 My clone repository
